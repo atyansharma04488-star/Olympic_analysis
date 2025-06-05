@@ -1,8 +1,3 @@
-Sure, Nipun! Here's your complete and ready-to-use `README.md` file for your [Olympic\_analysis](https://github.com/nipungoel24/Olympic_analysis) project. Just copy and paste this into your GitHub repo.
-
----
-
-```markdown
 # 🏅 Olympic Data Analysis Web App
 
 This project is a Python-based data analytics dashboard that provides deep insights into over 120 years of Olympic Games history. It allows users to explore country-wise performance, athlete trends, event growth, gender participation, and more.
@@ -48,17 +43,15 @@ This dashboard helps visualize and understand historical Olympic data, including
 ## 🗂️ Folder Structure
 
 ```
-
-Olympic\_analysis/
+Olympic_analysis/
 │
 ├── app.py                 # Main Streamlit application
 ├── helper.py              # All analysis functions
 ├── preprocessor.py        # Data preprocessing logic
-├── athlete\_events.csv     # Primary dataset
-├── noc\_regions.csv        # NOC-region mapping dataset
+├── athlete_events.csv     # Primary dataset
+├── noc_regions.csv        # NOC-region mapping dataset
 └── README.md              # Project documentation
-
-````
+```
 
 ---
 
@@ -76,22 +69,19 @@ Olympic\_analysis/
 ```bash
 git clone https://github.com/nipungoel24/Olympic_analysis.git
 cd Olympic_analysis
-````
+```
 
 ### Step 2: Install dependencies
-
 ```bash
 pip install -r requirements.txt
 ```
 
 If `requirements.txt` is not available, manually install:
-
 ```bash
 pip install pandas numpy matplotlib seaborn plotly streamlit
 ```
 
 ### Step 3: Run the application
-
 ```bash
 streamlit run app.py
 ```
@@ -103,39 +93,36 @@ streamlit run app.py
 > (Add screenshots to an `assets/` folder and update the links below)
 
 ### 📌 Medal Tally View
-
 ![Medal Tally](assets/medal_tally.png)
 
 ### 📌 Athlete Age Distribution
-
 ![Age Distribution](assets/age_distribution.png)
 
 ### 📌 Height vs Weight Plot
-
 ![Height vs Weight](assets/height_weight.png)
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Python**
-* **Pandas & NumPy** – Data manipulation
-* **Matplotlib & Seaborn** – Static visualizations
-* **Plotly** – Interactive charts
-* **Streamlit** – Web interface and deployment
+- **Python**
+- **Pandas & NumPy** – Data manipulation
+- **Matplotlib & Seaborn** – Static visualizations
+- **Plotly** – Interactive charts
+- **Streamlit** – Web interface and deployment
 
 ---
 
 ## 📦 Datasets Used
 
-* 📁 [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+- 📁 [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 ---
 
 ## 🙏 Acknowledgements
 
-* Inspired by [CampusX YouTube Lecture](https://youtu.be/5nQXhusiu7s?si=R1ra8lDn7ZIL0-VI)
-* Thanks to the open-source and data science communities
+- Inspired by [CampusX YouTube Lecture](https://youtu.be/5nQXhusiu7s?si=R1ra8lDn7ZIL0-VI)
+- Thanks to the open-source and data science communities
 
 ---
 
@@ -143,18 +130,6 @@ streamlit run app.py
 
 Made with ❤️ by [Nipun Goel](https://github.com/nipungoel24)
 
-* 📧 Email: [nipungoel346@gmail.com](mailto:nipungoel346@gmail.com)
-* 🌐 [LinkedIn](https://www.linkedin.com/in/nipungoel24/)
-* 🧠 [GitHub](https://github.com/nipungoel24)
-
-```
-
----
-
-Let me know if you want:
-- A `requirements.txt` file
-- Help deploying to Streamlit Cloud
-- Poster or handout version for presentation
-
-You're all set to impress! 💪
-```
+- 📧 Email: nipungoel346@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nipungoel24/)
+- 🧠 [GitHub](https://github.com/nipungoel24)
