@@ -128,8 +128,8 @@ streamlit run app.py
 
 ## 📬 Contact
 
-Made with ❤️ by [Nipun Goel](https://github.com/nipungoel24)
+Made with ❤️ by [Aryan Sharma](https://github.com/nipungoel24)
 
-- 📧 Email: nipungoel346@gmail.com  
+- 📧 Email: atyansharma04488@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nipungoel24/)
 - 🧠 [GitHub](https://github.com/nipungoel24)
